@@ -6,9 +6,9 @@
   ## Added the following features
  - Added background hover effect on each radio emotion.
  - Added message text if no emotion is selected.
- - Added transition when loading modal.
+ - Added transition when opening and closing modal.
  - Added same radio button accent color on checkbox.
- - Clicking outside the modal closes the modal.
+ - Clicking outside the modal closes it.
  - Displays all images if there are more than one and scales upon hover.
  - Image does not scale on hover if there is only one image.
  - Option to display only one image.
