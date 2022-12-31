@@ -13,4 +13,4 @@
  - Image does not scale on hover if there is only one image.
  - Option to display only one image.
  - Also fixed the bug from the existing Scrimba code base if the Get Image button is clicked without selecting an emotion returns an error:
-  - !TypeError: Cannot read properties of undefined (reading 'length')
+   - !TypeError: Cannot read properties of undefined (reading 'length')
